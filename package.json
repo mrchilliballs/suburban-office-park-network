@@ -1,0 +1,27 @@
+{
+  "name": "Webpage",
+  "version": "1.0.0",
+  "description": "Hello",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=7.6.0",
+    "npm": ">=4.1.2"
+  },
+  "author": "Mrchilliballs",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gfg/gfg.git" //sample git repo url
+  },
+  "bugs": {
+    "url": "https://github.com/gfg/gfg/issues"
+  },
+  "homepage": "https://github.com/gfg/gfg#readme"
+}
