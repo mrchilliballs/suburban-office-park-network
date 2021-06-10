@@ -49,8 +49,8 @@ margin-bottom:30px;
         <img src="icon.png" class="iready-icon img-fluid">i-Ready Overload
       </h1>
       <section>
+  <img class="img-fluid" src="overload.png"><br>
         <p>
-          <img class="img-fluid" src="overload.png">
           iReady is awful. It's the worst education tool anyone could ever use. I'm fed up with being forced to mindlessly watch the result of a greedy corporation that doesn't try in any way to make their product enjoyable, or even acceptable, for an hour and a half every single week. This repository is a collection of hacks that ensure nobody has to suffer through iReady ever again. The current version has a <a href="https://github.com/ArjhanToteck/iReady-Overload/blob/main/lessonSkipper">lesson and quiz skipper</a>, <a href="https://github.com/ArjhanToteck/iReady-Overload/blob/main/minutesHack">minutes hack</a>, and an experimental <a href="https://github.com/ArjhanToteck/iReady-Overload/blob/main/diagnosticHack">diagnostic hack</a>. There is also a <a href="https://github.com/ArjhanToteck/iReady-Overload/blob/main/lessonViewer">lesson viewer</a> that can show you the lesson data and files of many iReady lessons. You can view older versions of hacks <a href="https://github.com/ArjhanToteck/iReady-Overload/blob/main/olderVersions">here</a>. There is also a <a href="https://github.com/ArjhanToteck/iReady-Overload/blob/main/chromeExtension.zip">Chrome extension</a> that makes using these hacks a lot easier. It is an unpackaged extension, meaning you can install it like <a href="https://webkul.com/blog/how-to-install-the-unpacked-extension-in-chrome/">this</a>.
         </p>
       </section>
