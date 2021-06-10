@@ -45,27 +45,8 @@ margin-bottom:30px;
   </head>
   <body>
     <main class="container">
-      <h1 class="heading-2 text-success text-center">
-        <img src="icon.png" class="iready-icon img-fluid">i-Ready Overload
-      </h1>
-      <section>
-  <img class="img-fluid" src="overload.png"><br>
-        <p>
-          iReady is awful. It's the worst education tool anyone could ever use. I'm fed up with being forced to mindlessly watch the result of a greedy corporation that doesn't try in any way to make their product enjoyable, or even acceptable, for an hour and a half every single week. This repository is a collection of hacks that ensure nobody has to suffer through iReady ever again. The current version has a <a href="https://github.com/ArjhanToteck/iReady-Overload/blob/main/lessonSkipper">lesson and quiz skipper</a>, <a href="https://github.com/ArjhanToteck/iReady-Overload/blob/main/minutesHack">minutes hack</a>, and an experimental <a href="https://github.com/ArjhanToteck/iReady-Overload/blob/main/diagnosticHack">diagnostic hack</a>. There is also a <a href="https://github.com/ArjhanToteck/iReady-Overload/blob/main/lessonViewer">lesson viewer</a> that can show you the lesson data and files of many iReady lessons. You can view older versions of hacks <a href="https://github.com/ArjhanToteck/iReady-Overload/blob/main/olderVersions">here</a>. There is also a <a href="https://github.com/ArjhanToteck/iReady-Overload/blob/main/chromeExtension.zip">Chrome extension</a> that makes using these hacks a lot easier. It is an unpackaged extension, meaning you can install it like <a href="https://webkul.com/blog/how-to-install-the-unpacked-extension-in-chrome/">this</a>.
-        </p>
-      </section>
-      <footer>
-      <div class="text-center">
-        <button class="btn-danger btn-lg text-center mx-auto btn-getit" onclick="location.href='https://github.com/ArjhanToteck/iReady-Overload';">
-          Get it Here!
-        </button><br>
-        Coming Soon to<br>
-        <img src="store.png" class="img-thumbnail" width="20%" crossorigin height="10%">
-        <a href="#" class="hidden">
-          <img src="image.png" class="img-thumbnail" width="20%" crossorigin height="10%">
-        </a>
-      </div>
-      </footer>
+      <a href="overload.html">i-Ready Overload</a>
+      <a href="http://fuck.net">Go Somewhere</a>
     </main>
   </body>
 </html>
