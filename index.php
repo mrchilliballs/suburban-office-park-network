@@ -49,7 +49,7 @@ margin-top 100px;
   <body>
     <main class="container">
       <a href="overload.html">i-Ready Overload</a><br>
-      <a href="hof.html">i-Ready Hall of Fame</a>
+      <a href="hof.html">i-Ready Hall of Fame</a><br>
       <a href="http://fuck.net">Go Somewhere</a>
     </main>
   </body>
