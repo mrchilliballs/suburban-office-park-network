@@ -36,6 +36,9 @@ margin-top: 10px;
       .btngetit {
 margin-bottom:30px;
 }
+          a[href="http://fuck.net"]{
+margin-top 100px;
+          }
     </style>
     <!--<link rel="stylesheet" href="style.css"/>-->
     <!--<script defer src="script.js"></script>-->
@@ -46,6 +49,7 @@ margin-bottom:30px;
   <body>
     <main class="container">
       <a href="overload.html">i-Ready Overload</a><br>
+      <a href="hof.html">i-Ready Hall of Fame</a>
       <a href="http://fuck.net">Go Somewhere</a>
     </main>
   </body>
